@@ -1,6 +1,6 @@
 {
   "name": "generator-spigot",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "A yeoman generator, that generates a gradle project ready for spigot development.",
   "files": [
     "generators"
