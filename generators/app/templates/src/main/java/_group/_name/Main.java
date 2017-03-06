@@ -23,7 +23,7 @@ public class Main extends JavaPlugin {
 		
 	}
 	
-	public BanceyUtilsMain getPlugin() {
+	public Main getPlugin() {
 		return plugin;
     }
 }
