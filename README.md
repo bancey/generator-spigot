@@ -4,7 +4,7 @@
 
 `npm install -g generator-spigot`
 
-Or you can install it via the Yeoman CLI run `yo`
+Or you can install it via the Yeoman CLI, run `yo` and select `Install a Generator`
 
 ## Contribution
 
